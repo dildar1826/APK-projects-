@@ -1,0 +1,6 @@
+{
+  "name": "Screen Time Tracker",
+  "description": "Accurately measure daily screen time with interactive weekly line graphs, app usage breakdown, and digital wellbeing insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
